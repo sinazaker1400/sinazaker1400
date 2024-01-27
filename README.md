@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sina Zaker, I’m 31.
 - 👀 I’m interested in art, creativity, examinations & living stuffs.
-- 🌱 I’m currently learning Reactjs, Bootstrap5, Go, AI & REST api.
-- 💞️ I’m looking to collaborate on front-end & AI projects. 
+- 🌱 I’m currently learning Reactjs, redux, Bootstrap5, Go, python, wagtail, beeware, AI & REST api.
+- 💞️ I’m looking to collaborate on front-end & AI projects.
 - 📫 Here is my email:
 - sinazaker1400@gmail.com
 
